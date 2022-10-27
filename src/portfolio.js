@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Piga Hacks",
-  title: "We are Piga Hack",
+  title: "We are PigaHacks",
   subTitle: emoji(
     "A team of passionate Cyber Security enthusiasts 🦂 ready to make a safe and trustworth life happen to you. We help you to secure that which is important to you. We help in all aspects of security, from the design of the system to the implementation of the system."
   ),
